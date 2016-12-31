@@ -41,3 +41,5 @@ There are two roles:
 Note: it still has so many bugs and I wish you can contribute to this project and make it better :)
 
 Thanks to kilos laundry for survey object at our project!
+
+Demo: <a>http://laundrydemo.hol.es</a>
